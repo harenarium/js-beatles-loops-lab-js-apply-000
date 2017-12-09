@@ -4,4 +4,5 @@ function theBeatlesPlay(musicians, instruments){
     const string = musicians[i] plays instruments[i]
     array.push(string)
   }
+  return array
 }
