@@ -6,3 +6,11 @@ function theBeatlesPlay(musicians, instruments){
   }
   return array
 }
+
+function johnLennonFacts(facts){
+const i = 0
+while(i<facts.length){
+  facts[i] = facts[i] + "!!!"
+  i++
+}
+}
